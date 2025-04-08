@@ -25,6 +25,7 @@ INSTALLED_APPS = [
 ]
 
 INSTALLED_APPS += ['octofit_tracker']
+INSTALLED_APPS += ['djongo']
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
